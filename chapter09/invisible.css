@@ -1,0 +1,9 @@
+div{
+  padding:24px;
+  background-color: skyblue;
+
+  cursor: auto;
+  opacity: 1;
+  visibility: visible;
+  /* display: none; */
+}
