@@ -1,0 +1,8 @@
+/* 마우스 오버 */
+:hover{
+  background-color: yellow;
+}
+
+:active{
+  background-color: aqua;
+}
